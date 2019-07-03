@@ -37,7 +37,7 @@ export class Major {
     spinner.start('template installing...')
     return new Promise((resolve, reject) => {
       require('git-clone')(
-        'https://github.com/WittBulter/koa-ts',
+        'https://github.com/unix/koa-ts',
         this.projectPath,
         { shallow: true },
         (err) => {

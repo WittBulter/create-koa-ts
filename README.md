@@ -1,6 +1,6 @@
 ## create-koa-ts
 
-Installer for [koa-ts](https://github.com/WittBulter/koa-ts-guide)
+Installer for [koa-ts](https://github.com/unix/koa-ts-guide)
 
 ### Usage
 
